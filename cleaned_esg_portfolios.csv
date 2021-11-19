@@ -1,48 +1,43 @@
-Plant Name,Portfolio,Capacity,Total Var Cost,O&M/Day ($),,,,,,,,,,
-FOUR CORNERS,Big coal,1900,36.50,"$8,000",,,,,,,,,,
-ALAMITOS 7,Big coal,250,73.72,$0,,,,,,,,,,
-HUNTINGTON BEACH 1&2,Big coal,300,40.50,"$2,000",,,,,,,,,,
-HUNTINGTON BEACH 5,Big coal,150,66.50,"$2,000",,,,,,,,,,
-REDONDO 5&6,Big coal,350,41.94,"$3,000",,,,,,,,,,
-REDONDO 7&8,Big coal,950,41.94,"$5,000",,,,,,,,,,
-EL SEGUNDO 1&2,Big Gas,400,44.83,"$1,000",,,,,,,,,,
-EL SEGUNDO 3&4,Big Gas,650,41.22,"$1,000",,,,,,,,,,
-LONG BEACH,Big Gas,550,52.50,"$2,000",,,,,,,,,,
-NORTH ISLAND,Big Gas,150,65.50,$0,,,,,,,,,,
-ENCINA,Big Gas,950,41.67,"$2,000",,,,,,,,,,
-KEARNY,Big Gas,200,90.06,$0,,,,,,,,,,
-SOUTH BAY,Big Gas,700,43.83,"$2,000",,,,,,,,,,
-MORRO BAY 1&2,Bay Views,335,38.78,"$2,000",,,,,,,,,,
-MORRO BAY 3&4,Bay Views,665,36.61,"$4,000",,,,,,,,,,
-MOSS LANDING 6,Bay Views,750,32.56,"$8,000",,,,,,,,,,
-MOSS LANDING 7,Bay Views,750,32.56,"$8,000",,,,,,,,,,
-OAKLAND,Bay Views,150,61.17,$0,,,,,,,,,,
-COOLWATER,Beachfront,650,42.39,"$2,000",,,,,,,,,,
-ETIWANDA 1-4,Beachfront,850,42.67,"$8,000",,,,,,,,,,
-ETIWANDA 5,Beachfront,150,62.89,"$1,000",,,,,,,,,,
-ELLWOOD,Beachfront,300,75.61,$0,,,,,,,,,,
-MANDALAY 1&2,Beachfront,300,39.06,"$1,000",,,,,,,,,,
-MANDALAY 3,Beachfront,150,52.06,"$1,000",,,,,,,,,,
-ORMOND BEACH 1,Beachfront,700,38.06,"$7,000",,,,,,,,,,
-ORMOND BEACH 2,Beachfront,700,38.06,"$7,000",,,,,,,,,,
-PITTSBURGH 1-4,East Bay,650,40.94,"$2,500",,,,,,,,,,
-PITTSBURGH 5&6,East Bay,650,36.61,"$2,500",,,,,,,,,,
-PITTSBURGH 7,East Bay,700,59.72,"$4,000",,,,,,,,,,
-CONTRA COSTA 4&5,East Bay,150,58.28,"$1,000",,,,,,,,,,
-CONTRA COSTA 6&7,East Bay,700,39.50,"$6,000",,,,,,,,,,
-POTRERO HILL,East Bay,150,69.83,$0,,,,,,,,,,
-BIG CREEK,Old Timers,1000,0.00,"$15,000",,,,,,,,,,
-MOHAVE 1,Old Timers,750,34.50,"$15,000",,,,,,,,,,
-MOHAVE 2,Old Timers,750,34.50,"$15,000",,,,,,,,,,
-HIGHGROVE,Old Timers,150,49.61,$0,,,,,,,,,,
-SAN BERNADINO,Old Timers,100,53.94,$0,,,,,,,,,,
-HUMBOLDT,Fossil Light,150,47.44,$0,,,,,,,,,,
-HELMS,Fossil Light,800,0.50,"$15,000",,,,,,,,,,
-HUNTERS POINT 1&2,Fossil Light,150,49.17,"$1,000",,,,,,,,,,
-HUNTERS POINT 4,Fossil Light,250,75.89,"$1,000",,,,,,,,,,
-DIABLO CANYON 1,Fossil Light,1000,11.50,"$20,000",,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+Plant Name,Portfolio,Capacity,Total Var Cost,O&M/Day ($)
+FOUR CORNERS,Big coal,1900,36.50,"$8,000"
+ALAMITOS 7,Big coal,250,73.72,$0
+HUNTINGTON BEACH 1&2,Big coal,300,40.50,"$2,000"
+HUNTINGTON BEACH 5,Big coal,150,66.50,"$2,000"
+REDONDO 5&6,Big coal,350,41.94,"$3,000"
+REDONDO 7&8,Big coal,950,41.94,"$5,000"
+EL SEGUNDO 1&2,Big Gas,400,44.83,"$1,000"
+EL SEGUNDO 3&4,Big Gas,650,41.22,"$1,000"
+LONG BEACH,Big Gas,550,52.50,"$2,000"
+NORTH ISLAND,Big Gas,150,65.50,$0
+ENCINA,Big Gas,950,41.67,"$2,000"
+KEARNY,Big Gas,200,90.06,$0
+SOUTH BAY,Big Gas,700,43.83,"$2,000"
+MORRO BAY 1&2,Bay Views,335,38.78,"$2,000"
+MORRO BAY 3&4,Bay Views,665,36.61,"$4,000"
+MOSS LANDING 6,Bay Views,750,32.56,"$8,000"
+MOSS LANDING 7,Bay Views,750,32.56,"$8,000"
+OAKLAND,Bay Views,150,61.17,$0
+COOLWATER,Beachfront,650,42.39,"$2,000"
+ETIWANDA 1-4,Beachfront,850,42.67,"$8,000"
+ETIWANDA 5,Beachfront,150,62.89,"$1,000"
+ELLWOOD,Beachfront,300,75.61,$0
+MANDALAY 1&2,Beachfront,300,39.06,"$1,000"
+MANDALAY 3,Beachfront,150,52.06,"$1,000"
+ORMOND BEACH 1,Beachfront,700,38.06,"$7,000"
+ORMOND BEACH 2,Beachfront,700,38.06,"$7,000"
+PITTSBURGH 1-4,East Bay,650,40.94,"$2,500"
+PITTSBURGH 5&6,East Bay,650,36.61,"$2,500"
+PITTSBURGH 7,East Bay,700,59.72,"$4,000"
+CONTRA COSTA 4&5,East Bay,150,58.28,"$1,000"
+CONTRA COSTA 6&7,East Bay,700,39.50,"$6,000"
+POTRERO HILL,East Bay,150,69.83,$0
+BIG CREEK,Old Timers,1000,0.00,"$15,000"
+MOHAVE 1,Old Timers,750,34.50,"$15,000"
+MOHAVE 2,Old Timers,750,34.50,"$15,000"
+HIGHGROVE,Old Timers,150,49.61,$0
+SAN BERNADINO,Old Timers,100,53.94,$0
+HUMBOLDT,Fossil Light,150,47.44,$0
+HELMS,Fossil Light,800,0.50,"$15,000"
+HUNTERS POINT 1&2,Fossil Light,150,49.17,"$1,000"
+HUNTERS POINT 4,Fossil Light,250,75.89,"$1,000"
+DIABLO CANYON 1,Fossil Light,1000,11.50,"$20,000"
